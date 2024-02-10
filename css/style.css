@@ -873,6 +873,10 @@ video {
     margin-top: 10rem;
   }
 
+  .md\:mr-6 {
+    margin-right: 1.5rem;
+  }
+
   .md\:flex {
     display: flex;
   }
